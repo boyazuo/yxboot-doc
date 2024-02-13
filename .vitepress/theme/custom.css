@@ -1,0 +1,7 @@
+:root {
+  --vp-home-hero-image-background-image: none;
+}
+
+.VPHomeHero .text {
+  font-size: 36px;
+}
